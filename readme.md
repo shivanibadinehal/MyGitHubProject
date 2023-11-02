@@ -1,1 +1,1 @@
-craete reade.md 
+create readme.md
